@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231852890239",
+    "firebase_url": "https://myfirebasecloundmessagin-4ff64.firebaseio.com",
+    "project_id": "myfirebasecloundmessagin-4ff64",
+    "storage_bucket": "myfirebasecloundmessagin-4ff64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231852890239:android:208215a310532611",
+        "android_client_info": {
+          "package_name": "jurgen.example.myfirebasecloundmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231852890239-conuuie39rsn3gmpa7k60drs00repgns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jurgen.example.myfirebasecloundmessaging",
+            "certificate_hash": "19e10cb7a983efb03287b319bfa8d76f00a73fda"
+          }
+        },
+        {
+          "client_id": "231852890239-1o4fpgd2390euihap6fu84v3p7kes612.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymLjTeB7eDv_NiV0pYCj0SblI4VGGIws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231852890239-1o4fpgd2390euihap6fu84v3p7kes612.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
